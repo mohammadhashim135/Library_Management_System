@@ -1,0 +1,43 @@
+The Great Hashim Vol 1,1
+Concepts of Physics Vol 1,2
+Concepts of Physics Vol 2,3
+Problems in General Physics,4
+Mathematics for IIT JEE Vol 1,5
+Mathematics for IIT JEE Vol 2,6
+Advanced Problems in Mathematics,7
+Mohammad Hashim,8
+GATE Computer Science and IT,9
+GATE Electrical Engineering,10
+GATE Mechanical Engineering,11
+GATE Civil Engineering,12
+How to Prepare for Quantitative Aptitude for CAT,13
+How to Prepare for Verbal Ability and Reading Comprehension for CAT,14
+How to Prepare for Data Interpretation for CAT,15
+Premchand Ki Lokpriya Kahaniyan,16
+Manto Ki Behtareen Kahaniyan,17
+Kabuliwala,18
+To Kill a Mockingbird,19
+Pride and Prejudice,20
+The Great Gatsby,21
+Textbook of EVS UG,22
+Environmental Studies,23
+Environmental Studies: From Crisis to Cure,24
+NCERT Science Textbooks for Class 9 and 10,25
+Science for Everyone,26
+Chemistry: Principles and Reactions,27
+Computer Fundamentals and Programming in C,28
+Introduction to Algorithms,29
+Operating System Concepts,30
+A Brief History of Time,31
+The Alchemist,32
+Wings of Fire: An Autobiography,33
+Manorama Yearbook,34
+Lucent's General Knowledge,35
+India Year Book,36
+Oxford School Atlas,37
+Hashu,38
+IIT JEE Mathematics,39
+NEET Biology,40
+GATE ECE,41
+Hindi Stories,42
+English Stories,43
