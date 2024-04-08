@@ -1,6 +1,6 @@
 # Library_Management_System
 
-# Library Management System
+#                               Mohammad Hashim'Library
 
 A simple library management system implemented in C++.
 
@@ -16,7 +16,7 @@ The Library Management System is a console-based application developed in C++. I
 
 
 
-![Books](https://github.com/mohammadhashim135/Library_Management_System/blob/34179e78ece7f82ab300e85c13e9b261a61ace35/books.txt)
+![Books](https://github.com/mohammadhashim135/Library_Management_System/blob/b887173edb676b6a3cd452fa2736ff5735088e14/Books.png)
 
 ## Usage
 

@@ -7,7 +7,7 @@
 #include <cctype>
 #include <algorithm>
 #include <ctime> // For date and time operations
-
+//Mohammad Hashim
 using namespace std;
 
 // ANSI color codes
@@ -49,7 +49,7 @@ private:
 public:
     IssuedBook(const string& bName, int sID, const string& iDate, const string& rDate)
         : bookName(bName), studentID(sID), issueDate(iDate), returnDate(rDate) {}
-
+                                                   //MohammadHashim
     string getBookName() const { return bookName; }
     int getStudentID() const { return studentID; }
     string getIssueDate() const { return issueDate; }
@@ -70,7 +70,7 @@ public:
         loadStudentsFromFile();
     }
 
-    // Function to load existing books from books.txt
+    // Function to load existing books from books.txt (Files)
     void loadBooksFromFile() {
         ifstream file("books.txt");
         if (!file.is_open()) {
@@ -239,7 +239,7 @@ public:
 
     // Function to update the books.txt file with a new book
     void updateBooksFile(const string& name, int studentID) const {
-        ofstream file("books.txt", ios::app);
+        ofstream file("books.txt", ios::app);//Hashim
         if (!file.is_open()) {
             cout << "Error: Unable to open file 'books.txt' for updating." << endl;
             return;
@@ -301,6 +301,7 @@ int main() {
         cout << "3. Remove Book\n";
         cout << "4. Issue Book\n";
         cout << "5. Search Book\n";
+        //Code with Hashim
         cout << "6. Display Available Books\n";
         cout << "7. Display Issued Books\n";
         cout << "8. Display Students\n";
